@@ -1,0 +1,6 @@
+Date,Merchant,Category,Amount,Type,Currency,Note
+2026-08-31,Milkshake,Food & Dining,200,expense,INR,milkshake
+2026-08-31,Butty,Shopping,90,expense,INR,butty
+2026-08-31,Zepto,Food & Dining,200,expense,INR,zepto
+2026-08-31,Zomato,Food & Dining,500,expense,INR,zomato
+2026-08-31,auto,Transportation,500,expense,INR,auto
